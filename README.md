@@ -30,6 +30,6 @@ This project is meant to emulate a common task I would normally perform as a fro
 
 ## Authors
 
-* **Allan Blackett** - *Initial work* 
+* **Allan Limitless** - *Initial work* 
 
 
