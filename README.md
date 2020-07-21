@@ -1,4 +1,4 @@
-# PSD Website Coverter
+# Single Page PSD Coverter - Juno Project #1
 
 Juno College project 1. My objective is to show that I can take a PSD and convert it into a functional, responsive website.
 
